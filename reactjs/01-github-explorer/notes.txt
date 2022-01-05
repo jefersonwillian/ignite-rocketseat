@@ -1,0 +1,26 @@
+# First step:
+    Create a new directory on the computer and start package.json
+
+    -terminal: yarn init -y
+
+# Second step:
+    Create the directories within the project, create the "src and public" folders
+    Inside public create a file called "index.html"
+
+# Third step:
+    Install react in the project
+    -terminal: yarn add react
+    -terminal: yarn add react-dom
+
+# Fourth step:
+    Install Babel in the project
+    -terminal: yarn add @babel/core @babel/cli @babel/preset-env -D (-D is for development environment only)
+    -terminal: yarn add @babel/preset-react -D (Babel package to support react with JSX)
+
+    Create babel.config.js file
+
+# Fifth step:
+    Install Webpack in the project
+    -terminal: yarn add webpack webpack-cli webpack-dev-server -D
+
+    Create webpack.config.js file  
