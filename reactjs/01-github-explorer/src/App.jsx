@@ -1,5 +1,5 @@
-import './styles/global.css';
+import './styles/global.scss';
 
 export function App() {
-    return <div>Jeferson carvalho</div>;
+    return <div><h1>Jeferson carvalho</h1></div>;
 }
