@@ -1,33 +1,19 @@
+import { RepositoryItem } from "./RepositoryItem";
+
+const repository = {
+    name: 'unform',
+    description: 'Forms in React',
+    link: 'https://github.com/jefersonwillian/ignite-rocketseat'
+}
 export function RepositoryList() {
     return (
         <section className="repository-list">
             <h1>Lista de repositórios</h1>
 
             <ul>
-                <li>
-                    <strong>unform</strong>
-                    <p>Forms in React</p>
-
-                    <a href="3">Acessar repositório</a>
-                </li>
-                <li>
-                    <strong>unform</strong>
-                    <p>Forms in React</p>
-
-                    <a href="3">Acessar repositório</a>
-                </li>
-                <li>
-                    <strong>unform</strong>
-                    <p>Forms in React</p>
-
-                    <a href="3">Acessar repositório</a>
-                </li>
-                <li>
-                    <strong>unform</strong>
-                    <p>Forms in React</p>
-
-                    <a href="3">Acessar repositório</a>
-                </li>
+                <RepositoryItem repository={repository} />
+                <RepositoryItem  />
+                <RepositoryItem  />
             </ul>
         </section>
     )
