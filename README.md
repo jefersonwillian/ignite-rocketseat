@@ -1,4 +1,4 @@
 # Ignite 
 
-O Ignite é um programa de aceleração para devs, focado em preparar profissionais completos(as) para o mercado, treinando skills técnicas e comportamentais de forma intensiva e prática. O Ignite é dividido em trilhas de conhecimento não-dependentes onde nos aprofundamos em uma tecnologia específica. Em resumo, o objetivo do Ignite é desenvolver habilidades que vão acelerar sua carreira através de uma metodologia de aprendizado eficiente, um currículo alinhado às necessidades do mercado e as atitudes que vão te ajudar a se destacar como profissional.
+Ignite is an acceleration program for devs, focused on preparing complete professionals for the market, training technical and behavioral skills in an intensive and practical way. Ignite is divided into non-dependent knowledge trails where we delve into a specific technology. In summary, Ignite's goal is to develop skills that will accelerate your career through an efficient learning methodology, a curriculum aligned with market needs and attitudes that will help you stand out as a professional.
 
